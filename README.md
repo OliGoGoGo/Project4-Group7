@@ -4,15 +4,15 @@
 
 Term: Fall 2023
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 7
++ Projec title: Machine Learning Fairness Algorithm Implementation
 + Team members
-	+ team member 1
-	+ team member 2
+	+ Shaohuan Wu (sw3835)
+	+ Manan Brahmbhatt (mb4984)
 	+ team member 3
 	+ team member 4
 	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The ProPublica COMPAS dataset uses logistic regression algorithm to predict whether an offender will reoffend within two years, but it create some unfairness impact for different social groups (e.g., black and white), which puts certain groups at a disadvantage. In this project, we implemented some algorithms of two papers ( A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen), A6: Handling Conditional Discrimination (LM and LPS)), which can reduce the unfairness impact for certain types of people under the condition of guaranteeing the prediction accuracy, so as to ensure that the machine learning algorithm is more fair.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
