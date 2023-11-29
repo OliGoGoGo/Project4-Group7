@@ -12,7 +12,7 @@ Term: Fall 2023
 	+ Han Wang
 	+ Yihan Zhang
 	+ Shefali Shrivastava
-+ Project summary: The ProPublica COMPAS dataset uses logistic regression algorithm to predict whether an offender will reoffend within two years, but it create some unfairness impact for different social groups, which puts certain groups at a disadvantage. In this project, we implemented some algorithms of two papers ( A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen), A6: Handling Conditional Discrimination (LM and LPS)), which can reduce the unfairness impact for certain types of people under the condition of guaranteeing the prediction accuracy, so as to ensure that the machine learning algorithm is more fair.
++ Project summary: The ProPublica COMPAS dataset uses logistic regression algorithm to predict whether an offender will reoffend within two years, but it create some unfairness impact for different social groups, which puts certain groups at a disadvantage. In this project, we implemented some algorithms of two papers ( A4: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen), A6: Handling Conditional Discrimination (LM and LPS)), which can reduce the unfairness impact for certain types of people while guarantee the prediction accuracy, so as to ensure that the machine learning algorithm is more fair.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
